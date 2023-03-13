@@ -44,7 +44,8 @@ h1 {
     opacity: 1;
 }
 
-Transistion Transition duration Transition delay Transition timing function
+
+
 
 *,
 *::before,
@@ -97,6 +98,11 @@ html {
     .accordion{
         margin: 10rem 2rem;
     }
+
+    #img-box{
+        grid-template-columns: 1fr;
+    }
+
 }
 /* footer */
 h2{
